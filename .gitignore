@@ -1,0 +1,32 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings (optional, local only)
+.vscode/
+
+# EF Core database files (if using SQLite)
+*.db
+*.db-journal
+
+# Entity Framework Migrations history (optional if you don’t want migration binaries)
+**/Migrations/*.Designer.cs
+**/Migrations/*.resx
+
+# Rider IDE
+.idea/
+
+# Logs
+*.log
+
+# NuGet packages (they can be restored)
+*.nupkg
+*.snupkg
+packages/
+.nuget/
