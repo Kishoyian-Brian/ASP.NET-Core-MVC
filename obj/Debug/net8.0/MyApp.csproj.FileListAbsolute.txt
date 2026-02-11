@@ -28,3 +28,4 @@
 /home/brian/Dev/MyApp/obj/Debug/net8.0/MyApp.pdb
 /home/brian/Dev/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
 /home/brian/Dev/MyApp/obj/Debug/net8.0/ref/MyApp.dll
+/home/brian/Dev/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json

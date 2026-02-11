@@ -9,10 +9,15 @@ namespace MyApp.Controllers
         {
             var item = new Item
             {
-                Id = 1,
+               
                 Name = "Book"
             };
             return View(item);
+        }
+
+        public  IActionResult Edit(int id)
+        {
+            return Content("id = " + id);
         }
     }
 } 
